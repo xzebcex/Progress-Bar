@@ -14,7 +14,7 @@ This is a Python application that mimics a download progress indicator. It displ
   Follow the instructions below to run the program:
 1.	Save the repository to your own system by downloading or cloning it.
 2.	Launch a terminal and go to the repository's stored location.
-3.	Execute the command: python progress bar.py
+3.	Execute the command: python progress_bar.py
 
 ## How to Use
 Once launched, the program will imitate a download process and display a progress bar on the screen. The progress indicator will show the percentage of the download completed as well as the number of bytes downloaded. Every 0.2 seconds, the progress bar will update.
